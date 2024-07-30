@@ -10,6 +10,8 @@ This is a Flask-based web application that provides a 5-day weather forecast for
 - Dynamic city search
 - Responsive design with modern styling
 
+![image](https://github.com/user-attachments/assets/e5abe3be-1a1f-4268-871e-c9749fc2e494)
+
 ## Installation and usage
 
 1) Clone the repository:
